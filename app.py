@@ -1039,7 +1039,7 @@ if submit and name and selected_city_name != "لا توجد بيانات مدن 
         <h3>💡 تفاصيل مصادر الموارد والطاقة للبيوت بناءً على موقع الحاكم:</h3>
         {html_rulers_detail}
 
-        <h2>🔮 ثالثاً: توقعات الـ 5 سنوات القادمة</h2>
+        <h2>🔮 ثالثاً: توقعات الـ 3 سنوات القادمة</h2>
         {html_forecast_cards}
 
         <button class="btn-print" onclick="window.print()">🖨️ طباعة التقرير الشامل / حفظ PDF</button>
